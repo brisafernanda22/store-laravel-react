@@ -1,0 +1,7 @@
+.divider {
+  margin: 10px;
+  background-color: rgb(223, 223, 223);
+  width: 100%;
+  height: 5px;
+  border-radius: 10px;
+}
